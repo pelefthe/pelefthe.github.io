@@ -1,0 +1,170 @@
+
+
+<html><head><title>Tutorials</title>
+
+
+</head>
+
+
+<body bgcolor="#E0E0F8">
+
+
+ <!--Mathematical logic, model theory, o-minimal geometry.-->
+
+
+
+<h2>Tutorials: </h2>  
+ 
+<ul type=disc>
+<li> <b> <i>O-minimal geometry</i>, Tobias Kaiser (Passau)</b> 
+<b> <a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/Kaiser.pdf"> SLIDES</a></b>
+<br><br> 
+ 
+
+<b> Abstract:</b> We present how the axiom of o-minimality leads to excellent geometric behaviour of sets and functions definable in an o-minimal structure expanding the field of reals(or more generally a real closed  field). The leitmotivs are tameness and uniform finiteness. We cover cell decomposition, triangulation, stratification, trivialization and parametrization. We also show how geometry and logic interact in establishing o-minimality and proving strong geometric properties for important o-minimal structures.
+<br><br>
+
+The prerequisite for the tutorial is knowledge of mathematics at a bachelor level and familiarity with basic concepts from logic.
+<br><br>
+
+<b>Literature:</b><br>
+(1) J. Bochnak, M. Coste, M.-F.Roy: Real algebraic geometry. Ergebnisse der Mathematik und ihrer Grenzgebiete (3) 36. Springer, 1998.
+<br>
+(2) M. Coste: An introduction to o-minimal geometry. Lecture notes Pisa, 1999.
+<br>
+(3) L. van den Dries: Tame topology and o-minimal structures. London Mathematical Society Lecture Note Series 248. Cambridge University Press, 1998.
+<br>
+(4) G. Jones, A. Wilkie (eds.): O-minimality and diophantine geometry. London Mathematical Society Lecture Note Series 421. Cambridge University Press, 2015.
+<br>
+(5) C. Miller, J.-P. Rolin, P. Speissegger (eds.): Lecture notes on o-minimal structures and real analytic geometry. Fields Institute Communications 62. Springer, 2012.
+<br>
+(6) M. Shiota: Geometry of subanalytic and semialgebraic sets. Progress in Mathematics 150. Birk&aumlautuser, 1997.
+</li>
+
+<br><br>
+
+
+<li> <b> <i>Real algebraic geometry</i>, Daniel Plaumann (Dortmund)</b> <br><br>
+
+
+<b> Abstract:</b> In this tutorial, we will give an introduction to the study of positive polynomials and sums of squares. We will focus on examples and aspects that relate to model theory, such as questions of definability and degree bounds in sum-of-squares representations.
+<br><br>
+Results on this subject often combine methods from several different areas of mathematics, but we will not assume much background beyond calculus and basic algebra. However, some familiarity with ordered fields, real closure, etc., as presented for example in the first chapter of (3), should be very useful.
+<br><br>
+Literature: 
+(1) J. Bochnak, M. Coste, M.-F. Roy: Real algebraic geometry. Ergebnisse der Mathematik und ihrer Grenzgebiete, Springer, 1998
+(2) M. Marshall: Positive Polynomials and Sums of Squares. AMS Surv. 146, 2008.
+(3) A. Prestel and C. Delzell: Positive Polynomials. Springer SMM, 2001
+
+</li>
+
+
+
+<br><br>
+
+<li> <b> <i>Tame expansions of o-minimal structures</i>, Philipp Hieronymi (UIUC) 
+<a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/Hieronymi.pdf">  PROBLEMS</a></b> 
+<br><br>
+
+
+<b> Abstract:</b> A relatively new part of the model theory of ordered structures is the study of tame expansions of o-minimal structures. 
+O-minimality can be considered as a nice framework for studying tame geometric objects. In the last three decades researchers proved that 
+many classical phenomena from real-analytic geometry fall into the framework of o-minimality. This has led to advances not only in logic 
+and analytic geometry, but also in other branches of mathematics like Lie theory and Diophantine number theory. Unfortunately, o-minimality 
+can only be used to model phenomena that are at least locally finite, or more precisely, objects that have only finitely many connected 
+components. The observation that there are many interesting geometric objects with infinitely many connected components (such as certain 
+trajectories of vector fields or the set of rational points of an elliptic curve) led to the study of model-theoretically well-behaved 
+expansions of o-minimal structures that define such objects. The study of such tame expansions of o-minimal structures has recently seen 
+significant growth and the purpose of this tutorial is to survey this development.
+
+</li>
+
+<br><br>
+
+
+<li> <b> <i>Definable groups</i>, Margarita Otero (Madrid)</b>
+ <a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/Otero2.pdf">  SLIDES</a>  
+ <br><br>
+
+<b>
+<a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/Otero_abstract.pdf"> <b> Abstract </b> </a>
+</b> 
+
+</li>
+
+
+<br><br>
+
+<li> <b> <i>Pila-Wilkie theorem and Diophantine applications</i>,  Ya'acov Peterzil (Haifa) and Margaret Thomas (Konstanz)</b> <br><br>
+
+ <!--  <b>Margaret Thomas:</b> <i>The Pila-Wilkie Theorem</i>
+
+<br><br>
+
+<b> Abstract:</b> Pila and Wilkie's influential counting theorem provides a bound on the 
+``density'' of rational points lying on sets definable in o-minimal 
+expansions of the real field, or, more specifically, lying on the 
+`transcendental parts' of such definable sets. This provides a strong 
+connection between certain algebraic and arithmetic properties of 
+definable sets and has brought about a lively interaction in recent 
+years between o-minimality and diophantine geometry, including several 
+important applications to arithmetical conjectures which will be 
+explored further in Ya'acov Peterzil's tutorial.<br><br>
+
+As a prelude to this, we will provide an introduction to the Pila-Wilkie 
+Theorem, indicating the main ingredients involved in the proof. In 
+particular, we will focus on the key step known as the Pila-Wilkie 
+Reparameterization Theorem, following Yomdin and Gromov. This is a 
+statement about the geometry of sets definable in o-minimal expansions 
+of real closed fields, namely that they can be covered by the images of 
+finitely many ``sufficiently differentiable'' functions with bounded 
+derivatives, functions which turn out to play a key role in the counting 
+of rational points.
+<br><br>-->
+
+<b>Margaret Thomas:</b> <i>The Pila-Wilkie Theorem</i></b> <br><br>
+
+Pila and Wilkie's influential counting theorem provides a bound on the
+"density" of rational points lying on sets definable in o-minimal
+expansions of the real field, or, more specifically, lying on the
+"transcendental parts" of such definable sets. This provides a strong
+connection between certain algebraic and arithmetic properties of
+definable sets and has brought about a lively interaction in recent
+years between o-minimality and diophantine geometry, including several
+important applications to arithmetical conjectures which will be
+explored further in Ya'acov Peterzil's tutorial.<br><br>
+
+As a prelude to this, we will provide an introduction to the Pila-Wilkie
+Theorem, indicating the main ingredients involved in the proof. In
+particular, we will focus on the key step known as the Pila-Wilkie
+Reparameterization Theorem, following Yomdin and Gromov. This is a
+statement about the geometry of sets definable in o-minimal expansions
+of real closed fields, namely that they can be covered by the images of
+finitely many "sufficiently differentiable" functions with bounded
+derivatives, functions which turn out to play a key role in the counting
+of rational points.<br><br>
+
+<b>Ya'acov Peterzil:</b> <i>Applications of o-minimality to some problems in Diophantine Geometry</i>
+<a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/Peterzil.pdf">  SLIDES</a><br><br>
+
+<b> Abstract:</b> Consider the following linear algebra problem: Assume that V is a coset of a complex linear subspace H of C^n. Assume further that the intersection of Q^n with V (Q=rationals) is Zariski dense in V. Show that H has a basis in Q^n and V is a H-coset of some element in Q^n. <br><br>
+
+The above problem is a very simple example of a class of problems of the following prototype: We fix a an algebraic variety X (in the above=C^n), we fix a class of sub-varieties C (in the above-all affine subspaces), and in it a subfamily S of "special" varieties (in the above-those affine spaces defined over Q). The 0-dimensional sub-varieties, S_0, are called special points (in the above-Q^n). Under appropriate assumptions one wishes to show: If V is in C and its intersection with S_0 is Z-dense in V then V is special, namely in S.
+<br><br>
+
+The above framework specializes to several important problems in Diophantine geometry:<br><br>
+
+1. Manin-Mumford Conjecture (a Theorem of Reynaud) : Here X is an abelian variety over Q and  C the collection of all irreducible algebraic subvarieties of V. The special varieties are those which are cosets of Abelian subvarieites of X (namely, cosets of algebraic subgroups) and the special points are the torsion points of X. The result says: If the torsion points on an irreducible subvariety V of X are Z-dense in V then V is a special variety. 
+<br><br>
+2. Same as above, with X=(C^*)^n. Here the result says: If the torsion points of X are Z-dense on an irreduclbe algebraic subvariety V of X then V is a coset of an algebraic subgroup.<br><br>
+
+3. The Andre-Oort Conjecture (a theorem, under various assumptions, of Pila, Pila-Timerman, Klingler-Ullmo-Yafaev). This is more complicated to explain here. In broad terms: X is a Shimura variety, C the collection of all irreducible subvarieties, and S is the collection of "special subvarieties".<br><br>
+
+About 8 years ago Pila and Zannier proposed a new strategy to tackle problems as above, using the Pila-Wilkie result on the number of rational points in definable sets in o-minimal structures. This strategy has proven extremely fruitful in many different settings, culminating in a theorem of Pila on the Andre-Oort conjecture. <br><br>
+
+In these talks I will outline the above strategy, focusing mainly on problems 1 and 2 above.<br><br>
+
+Students attending these talks are advised to get basic familiarity with notions from model theory such as definable sets, o-minimal structures, and notions from Algebraic geometry such  as Abelian Varieties.<br><br>
+ <br><br>
+
+</body></html>

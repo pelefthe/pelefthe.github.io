@@ -1,0 +1,143 @@
+
+
+<html><head><title>Lectures</title>
+
+
+</head>
+
+
+
+<body bgcolor="#E0E0F8">
+
+
+ <!--Mathematical logic, model theory, o-minimal geometry.-->
+
+
+
+<h2>Lectures:</h2>  
+
+
+<ul type=disc>
+
+
+
+<li><b> Matthias Aschenbrenner  (UCLA)</b>: <i>Definable extension theorems in o-minimal structures</i>
+<br><br> 
+
+<b>Abstract:</b>
+Many classical theorems in analysis (such as those associated with the names of Tietze, Kirszbraun, Whitney) concern the extension of functions from subsets of real euclidean space to the whole space, subject to certain conditions. The proofs of these facts are usually non-constructive, and it is a challenge to produce extensions in an explicit way. I will survey some results in this direction, focussing on preserving definability in an o-minimal structure on the real line, and pose some open questions.
+
+
+</li>
+
+<br> <br>
+
+<li><b> 
+Raf Cluckers (Lille 1 and KU Leuven):</b> <i>Yomdin - Gromov parameterizations in non-archimedean geometry</i>
+<br><br> 
+
+<b>Abstract:</b>We will explain parameterizations of bounded C^r-norm of definable sets in non-archimedean geometry, namely for semi-algebraic and subanalytic sets. Here, the subanalytic structure may for example come from a uniform analytic structure on local fields following van den Dries; more recent results about such analytic structures in joint work with L. Lipshitz play an important role. We will explain existence of such parameterizations, and their natural applications to rational points of bounded heights. These results are non-archimedean analogues of the results by Pila and Wilkie in their Duke, 2006 paper and are joint work with G. Comte and F. Loeser.
+
+</li>
+
+<br> <br>
+
+<li><b> Deirdre Haskell (McMaster):</b> <i>Around and about real closed valued fields</i>
+
+<br><br>
+
+<b> Abstract:</b> A field may be equipped with both an ordering and a valuation. If the valuation is convex with respect to the ordering, then properties of the field will map down to the value group and residue field, and vice versa.  In this case, we expect that the field should be in some sense controlled by its value group and residue field. I will review some of the classic results in this direction, and talk about some recent results concerning a notion of domination of a type in the field sort by its value group and residue field.
+
+</li>
+<br> <br>
+
+ 
+
+<li><b> Nadja Hempel (Lyon 1):</b> <i>NIP fields</i> </li> <br>
+<b>
+<a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/abstract.hempel.pdf"> <b> Abstract </b> </a>
+</b> 
+</li>
+<br><br><br>
+
+
+<li><b> Salma Kuhlmann (Konstanz):</b> <i>Quasi-ordered difference fields</i>
+
+<br><br>
+
+<b>Abstract:</b> The valuation rank of an ordered or valued field is an important tool both in real algebra and in valuation theory. In the present work, we extend this theory to an ordered or valued difference field, that is, ordered or valued field endowed with a compatible field automorphism. To treat simultaneously the cases of ordered and valued fields, we work in the class of quasi-ordered fields. 
+
+<br><br>
+In this self-contained talk, we will start with a brief review of classical notions such as convex, coarse and composite valuations on quasi-ordered fields. We then introduce and study the difference rank of a quasi-ordered field as the quotient modulo an equivalence relation naturally induced by the automorphism. This rank encodes the growth rate of the automorphism.  The cases of isometries,  $\omega$-increasing (or $\omega$-contracting) automorphisms are of special interest in the model-theoretic context, and are treated separately. This is joint work with M. Matusinski and F. Point.
+
+
+</li>
+<br><br>
+
+<li><b> Daniel Palac&iacute;n (M&uuml;nster):</b> <i>
+Stable groups</i>
+
+<br><br>
+<b>Abstract:</b>  Stability theory has played a fundamental role in the development of pure model theory and its applications. In fact, despite the fact that other wider classes of theories have come into play, the techniques and ideas from stability theory are still essential.
+
+<br><br> 
+In this talk I aim to present structural properties on groups in stable theories. The talk should be accessible to non-specialists. 
+ 
+
+</li><br><br>
+
+
+<li><b> Amador Martin-Pizarro (Lyon 1):</b>  <i>Pairs of fields and definable groups</i>
+
+<br><br>
+<b>Abstract:</b> Several theories of pairs of fields have been historically considered, based on work by Robinson, Keisler, Macintyre, Poizat and van den Dries, among others. In particular, it is worth noting that the theory of a proper pair of algebraically closed fields of a given characteristic is complete and coincides with the theory of belles paires of models of algebraically closed fields, as introduced by Poizat. This theory shares many similarities with a certain unstable not o-minimal theory, consisting of a real closed field with a distinguished predicate for a dense proper real subfield, studied by van den Dries. 
+
+<br><br>
+We will introduce some notions on the theory of such pairs which allow to understand types, as well as provide a characterisation of definable groups in a beautiful pair (K, E) of algebraically closed fields: Up to isogeny, every definable group projects onto the subgroup of E-rational points of some algebraic group defined over E with kernel an algebraic group. If time permits, we will discuss the characterisation of interpretable groups and imaginaries for dense real closed fields. 
+
+</li>
+<br><br>
+
+
+
+<li><b> Anand Pillay (Notre Dame)</b><br><br>
+
+<b>Talk I:</b>  <i>Manin-Mumford and Mordell-Lang</i>
+
+<br><br>
+<b>Abstract:</b> This is joint with Franck Benoist and Elisabeth Bouscaren. We give another model theoretic proof of positive characteristic function field Mordell-Lang, by reducing it to positive characteristic function field Manin-Mumford (of which there is a transparent proof by Roessler-Pink) using a few additional ingredients, but avoiding appeals to the dichotomy theorem for type-definable Zariski geometries.
+
+<br><br>
+<b>Talk II:</b> <i>Nash groups</i>
+
+<br><br>
+<b>Abstract:</b>  I discuss the problem of the classification of (real) Nash groups, and more or less give a solution in the commutative (and more generally solvable) case, pointing out differences with the 1-dimensional situation. (This is joint work with Starchenko from a couple of years ago, but has not yet been written up.)
+</li>
+<br><br>
+
+
+<li><b> Claus Scheiderer (Konstanz):</b>  <i>Degree bounds for sum of squares representations</i>
+<br><br>
+<b>
+<a href="http://www.math.uni-konstanz.de/~eleftheriou/summerschool/abstract.scheiderer.pdf"> <b> Abstract </b> </a>
+</b> 
+</li>
+<br><br>
+
+<li><b> Marcus Tressl (Manchester):</b> <i>Model theory of continuous semi-algebraic functions</i>
+<br><br>
+
+<b>Abstract:</b>
+I will give an overview of the model theory of the ring A of continuous semi-algebraic functions on a semi-algebraic subset S of the 
+Euclidean space. When the dimension of S is at least 2 then A is undecidable and one can reconstruct the semi-algebraic homeomorphism type of S from the first order theory of A; I will briefly review this.
+
+<br><br>
+The main part of the talk will focus on the case when the dimension of S is 1, where I conjecture that A has good model theoretic 
+properties. I will report on various reducts of $A$, mainly the lattice ordered group underlying A and the lattice ordered A-module A. 
+Both reducts are decidable (in the appropriate formulation for the module case) and have explicit axiomatisations. (In higher dimensions 
+these reducts are again wild.)
+<br><br>
+</li>
+</ul>
+
+</body></html>
